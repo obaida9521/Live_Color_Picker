@@ -4,6 +4,7 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
+    <dimen name="color_selected_size">15dp</dimen>
 
     <style name="Theme.LiveColorPick" parent="Base.Theme.LiveColorPick" />
 </resources>
